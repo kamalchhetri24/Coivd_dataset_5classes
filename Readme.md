@@ -10,12 +10,12 @@ KC, K., Yin, Z., Wu, M., & Wu, Z. (2021). Evaluation of deep learning-based appr
 
 Chicago Style
 
-Kc, Kamal, Zhendong Yin, Mingyang Wu, and Zhilu Wu. "Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images." Signal, image and video processing 15, no. 5 (2021): 959-966.
+KC, Kamal, Zhendong Yin, Mingyang Wu, and Zhilu Wu. "Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images." Signal, image and video processing 15, no. 5 (2021): 959-966.
 
 Harvard Style
 
-Kc, K., Yin, Z., Wu, M. and Wu, Z., 2021. Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images. Signal, image and video processing, 15(5), pp.959-966.
+KC, K., Yin, Z., Wu, M. and Wu, Z., 2021. Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images. Signal, image and video processing, 15(5), pp.959-966.
 
 Vancouver Style
 
-Kc K, Yin Z, Wu M, Wu Z. Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images. Signal, image and video processing. 2021 Jul;15(5):959-66.
+KC K, Yin Z, Wu M, Wu Z. Evaluation of deep learning-based approaches for COVID-19 classification based on chest X-ray images. Signal, image and video processing. 2021 Jul;15(5):959-66.
